@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26715" started-at="2018-12-17T10:30:32Z" finished-at="2018-12-17T10:30:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26715" started-at="2018-12-17T10:30:32Z" finished-at="2018-12-17T10:30:59Z">
+      <class name="com.crm.testcase.Dealpagetest">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.crm.testcase.Dealpagetest@31ef45e3]" name="login" is-config="true" duration-ms="26061" started-at="2018-12-17T10:30:32Z" finished-at="2018-12-17T10:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="EnterDetaldetails()[pri:0, instance:com.crm.testcase.Dealpagetest@31ef45e3]" name="EnterDetaldetails" duration-ms="624" started-at="2018-12-17T10:30:58Z" finished-at="2018-12-17T10:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterDetaldetails -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.crm.testcase.Dealpagetest@31ef45e3]" name="quit" is-config="true" duration-ms="0" started-at="2018-12-17T10:30:59Z" finished-at="2018-12-17T10:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- com.crm.testcase.Dealpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
